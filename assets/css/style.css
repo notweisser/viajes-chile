@@ -79,5 +79,42 @@ margin-bottom: 10px;
     margin-bottom: 50px;
 }
 
+.card {
+    margin: 0 20px;
+    background-color: #328998;
+}
+
+
+.card-group {
+    border: 1px black;
+    margin-bottom: 100px;
+}
+
+
+.card-title {
+    font-size: 16pt;
+    font-weight: 400;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+.card-text {
+    font-size: 12pt;
+    font-weight: 400;
+    text-align: left;
+    color: #ffffff;
+}
+
+.card:hover {
+    background-color: yellow;
+    color: black;
+}
+
+
+.card-img-top {
+    padding: 2px;
+}
+
 
 
