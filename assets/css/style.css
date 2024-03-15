@@ -1,0 +1,52 @@
+*body{
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+/*img*/
+.logo-viajechile{
+    height:40px;
+    margin-left: 15px;    
+}
+/*viajes chile*/
+.navbar-brand{
+    color: white;
+    margin-right: auto;
+    padding: 10px
+    
+}
+/*barra de navegacion*/
+.contenedor-fluid{
+    color: white;
+    max-width: 100vw; 
+    position: relative;
+    margin: auto;
+}
+
+/*texto barra de navegacion*/
+.nav-item{
+font-size: 20px ;
+margin-right: auto;
+margin-left: auto;
+
+
+}
+.carousel-item{
+height: 100vh;
+min-height: 300px;
+background: no-repeat center center scroll;
+background-size: cover;
+}
+    
+
+
+
+
+
+.carousel-inner{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+    
