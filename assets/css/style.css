@@ -45,41 +45,39 @@ background-size: cover;
 }
 
     /*segunda secction*/
-    /*quienes somos*/
-.texto{
+
+h4 {
+    display: block;
     text-align: center;
-    padding: 40px;
-}
-/*parrafos*/
-.parrafos{
-    display: flex;
-    border:5px; 
-    font-size: 15px;
-    border: 20px;
-}
-  /*icono*/
-.icono{
-    background-color:#3d3dda;
-    position: fixed; 
-    
-    
-}
-/*textos1,2,3*/
-.text1{
-    margin-left: 40px;
-    text-align: justify;
-}
-.text2{
-    margin: 40px;
-    text-align: center;
-    
-}
-.text3{
-    margin-right: 40px;
-    text-align: justify;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 30px;   
 }
 
 
+.col1, .col2, .col3 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+}
+
+
+.icon1 {
+text-align: center;
+color: white;
+background-color: #328998;
+margin-bottom: 10px;
+}
+
+.icon2 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
 
 
 
