@@ -86,8 +86,8 @@ div div div ul li {
     margin-right: auto;
     list-style: none;
 }
-card-body{
-    
+.card{
+    margin: 20px;
 }
 
 /*formulario*/
